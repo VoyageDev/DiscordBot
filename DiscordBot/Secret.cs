@@ -10,7 +10,7 @@ namespace DiscordBot
     {
         public static string GetToken()
         {
-            return "OTgzMDMxODAxMjE3OTYyMDU1.GKaQVc.rn6HKMdHvYgijQJwoQRO1K4dxBp06uuwExOmEQ";
+            return "ur token";
         }
       
     }
